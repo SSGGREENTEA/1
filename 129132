@@ -1,0 +1,43 @@
+yy=A.Azzer() --gg.getLine()
+ee=A.Azzer()
+cc=A.Azzer()
+ss=A.Azzer()
+ww=A.Azzer()
+ll=A.Azzer()
+qq=A.Azzer()
+bb=A.Azzer()
+jj=A.Azzer()
+
+aq= {""}
+sw= {"", ""}
+de= {  "",  "",  ""}
+fr= {  "",  "",  "",  ""}
+gt = {  "",  "",  "",  "",  ""}
+hy = {  "",  "",  "",  "",  "",  ""}
+ju = {  "",  "",  "",  "",  "",  "",  ""}
+ki= {  "",  "",  "",  "",  "",  "",  "",  ""}
+lo = {  "",  "",  "",  "",  "",  "",  "",  "",  ""}
+pp= {  "",  "",  "",  "",  "",  "",  "",  "",  "",""}
+
+function a()
+menu= A.ccccc({ "功能1","功能2"},nil,'欢迎使用')
+if menu == 1 then a1() end
+if menu == 2 then a2() end
+if menu == nil then os.exit() end
+
+function a1()
+A.xxx(jj..";"..yy.."::"..cc.."0",A.xd,false,A.xse,0,-1)
+A.xxx(jj,A.xd,false,A.xse,0,-1)
+A.xx(ww)
+A.x(ww..ll, A.xf)
+A.tshi("开启成功")
+end
+
+function a2()
+A.xxx(jj..";"..yy.."::"..cc.."0",A.xd,false,A.xse,0,-1)
+A.xxx(jj,A.xd,false,A.xse,0,-1)
+A.xx(ww)
+A.x(#pp..bb, A.xf)
+A.tshi("开启成功")
+end
+
